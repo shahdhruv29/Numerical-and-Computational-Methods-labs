@@ -1,6 +1,7 @@
-# MC225 Numerical and Computational Methods Labs, Prof. Aditya Tatu
+# MC225 Numerical and Computational Methods Labs
+## Guide: Prof. Aditya Tatu
 
-# Members: Dhruv Shah, Pranav Patel, Vatsal Shah
+## Members: Dhruv Shah, Pranav Patel, Vatsal Shah
 
 Lab-1: Computer Arithmetic and Bisection Method
 
